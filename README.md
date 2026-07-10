@@ -4,10 +4,6 @@
 
 Centralized identity and access management (IAM) for the OpenShelves platform. Features JWT-based authentication, RBAC with jury governance, trust scoring, and antivirus-scanned avatar processing.
 
-## 🚀 Live Demo & Testing
-
-**Public Test Environment**: [TestLink](https://xtw5jwgrsm.ap-southeast-2.awsapprunner.com/test)
-
 > 📧 **Bug Reports & Suggestions**: Please email [admin@ringlochid.me](mailto:admin@ringlochid.me)
 
 This interactive test console allows you to explore the full feature set of the Auth Service independently.
